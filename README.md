@@ -1,23 +1,26 @@
-# Hi, I'm <你的名字> 👋
+### Hi there! 👋
 
-<一句话介绍自己,例如:后端工程师,喜欢构建简洁可靠的系统。>
+I'm **Junyu Luo**, a **Robotics Engineer & R&D Lead**, passionate about building intelligent robotic systems and turning innovative ideas into real-world products.
 
-## About
+🤖 **Focus Areas**
+- Mobile Robotics & Autonomous Navigation
+- Robotic Manipulation & Motion Control
+- ROS / ROS 2 & SLAM
+- Embedded Systems & Hardware-Software Integration
+- Assistive Robotics & Embodied AI
 
-- 🔭 目前在做:<项目或方向>
-- 🌱 正在学习:<技术或领域>
-- 💬 可以聊聊:<话题>
+🚀 **Currently Working On**
 
-## Tech Stack
+Intelligent wheelchairs, autonomous mobile robots, and robotic manipulation systems.
 
-`Python` `Go` `TypeScript` `Docker` `Linux`
+💡 **My Interests**
 
-## Projects
+Robotics, Embodied Intelligence, Autonomous Systems, and Open-Source Technologies.
 
-- [项目一](https://github.com/<用户名>/<仓库>) — 一句话说明
-- [项目二](https://github.com/<用户名>/<仓库>) — 一句话说明
+🛠 **Tech Stack**
 
-## Contact
-
-- Email: <your@email.com>
-- Blog: <https://your.blog>
+![ROS 2](https://img.shields.io/badge/ROS_2-22314E?style=flat&logo=ros&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Embedded](https://img.shields.io/badge/Embedded-Systems-555555?style=flat)
